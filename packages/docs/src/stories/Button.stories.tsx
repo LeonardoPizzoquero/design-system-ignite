@@ -1,6 +1,6 @@
 import type { StoryObj, Meta } from '@storybook/react'
 import { ArrowRight } from 'phosphor-react'
-import { Button, ButtonProps } from '@pecege-ui/react'
+import { Button, ButtonProps } from '@ignite-design-system-lp/react'
 
 export default {
   title: 'Form/Button',
@@ -61,7 +61,7 @@ export const WithIcon: StoryObj<ButtonProps> = {
         Próximo passo
         <ArrowRight weight="bold" />
       </>
-    ),
+    ), 
   },
 }
 

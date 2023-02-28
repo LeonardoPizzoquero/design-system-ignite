@@ -1,4 +1,4 @@
 {
-  "extends": "@pecege-ui/ts-config/base.json",
+  "extends": "@ignite-design-system-lp/ts-config/base.json",
   "include": ["src"]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@pecege-ui/docs",
+  "name": "@ignite-design-system-lp/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,10 +29,10 @@
     "vite": "^4.1.4"
   },
   "dependencies": {
-    "@pecege-ui/eslint-config": "*",
-    "@pecege-ui/react": "*",
-    "@pecege-ui/tokens": "*",
-    "@pecege-ui/ts-config": "*",
+    "@ignite-design-system-lp/eslint-config": "*",
+    "@ignite-design-system-lp/react": "*",
+    "@ignite-design-system-lp/tokens": "*",
+    "@ignite-design-system-lp/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

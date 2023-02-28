@@ -1,4 +1,4 @@
 {
-  "extends": "@pecege-ui/ts-config/react.json",
+  "extends": "@ignite-design-system-lp/ts-config/react.json",
   "include": ["src"]
 }

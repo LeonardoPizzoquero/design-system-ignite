@@ -1,4 +1,4 @@
-import { colors } from '@pecege-ui/tokens'
+import { colors } from '@ignite-design-system-lp/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {
