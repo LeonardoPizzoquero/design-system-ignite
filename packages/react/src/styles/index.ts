@@ -1,0 +1,39 @@
+import {
+  colors,
+  fonts,
+  fontSizes,
+  fontWeights,
+  lineHeights,
+  radii,
+  space,
+} from '@pecege-ui/tokens'
+
+import { createStitches, defaultThemeMap } from '@stitches/react'
+
+export const {
+  styled,
+  css,
+  globalCss,
+  keyframes,
+  getCssText,
+  theme,
+  config,
+  createTheme,
+  prefix,
+  reset,
+} = createStitches({
+  themeMap: {
+    ...defaultThemeMap,
+    height: 'space',
+    width: 'space',
+  },
+  theme: {
+    colors,
+    fontSizes,
+    fontWeights,
+    fonts,
+    lineHeights,
+    radii,
+    space,
+  },
+})
